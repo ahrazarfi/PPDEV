@@ -24,7 +24,7 @@ function extractHtml(html) {
     //     stringHtml += selectorTool(bowlerTable[index]).html();
     // }
 
-    let name = "";
+    let hname = "";
     let highestWkt = 0;
 
     for(let i=0;i<bowlerTable.length;i++){
@@ -33,15 +33,20 @@ function extractHtml(html) {
         
         for(let j=0;j<singleInBowl.length;j++){
             let bowlCol = selectorTool(singleInBowl[j]).find("td");
-/*             let name = selectorTool(bowlCol[0]).text();
+            let name = selectorTool(bowlCol[0]).text();
             let wkt = selectorTool(bowlCol[4]).text();
-            console.log("Name->", name, "Wickets->", wkt); */
+            console.log("Name->", name, "Wickets->", wkt);
 
-            
+            if(wkt >= highestWkt){
+                highestWkt=wkt;
+                hname = name;
+            }
         } 
         console.log("```````````````````````````````````");
     }
 
     // console.log(stringHtml);
+
+    console.log(hname + ":" + highestWkt);
 }
 console.log("After");
