@@ -1,4 +1,5 @@
-// let(example 1) let is block scoped
+// let(example 1) let is block scoped,
+no  redeclaration, we cant access it before its declaration.
 
     // code
     ![](2021-03-19-19-37-20.png)
@@ -19,6 +20,7 @@
 
 
 // var > it is function scoped that means it is not available outside the fucntion
+we can redeclare, you can access before its declared.
 
     //example 1
         //code
