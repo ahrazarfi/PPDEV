@@ -1,4 +1,4 @@
-// importing modules
+/* // importing modules
 let request = require("request");
 let cheerio = require("cheerio");
 
@@ -20,10 +20,29 @@ function issues(issuesLink) {
 // this function extracts open issues from the github issues page for the specific repo
 function extractIssues(html) {
     let sel = cheerio.load(html)
+    let issuesArr = sel("a.Link--primary.v-align-middle.no-underline.h4.js-navigation-open.markdown-title");
+
+    let gitBaseUrl = "https://github.com";
+    let issue = [];
+    // array for open issues
+    for(let i=0;i<issuesArr.length;i++){
+        let issueName = sel(issuesArr[i]).text();
+        let issueLink = gitBaseUrl + sel(issuesArr[i]).attr("href");
+        console.table()
+        let issueObj = {
+            Name : issueName,
+            Link : issueLink
+        }
+        issue.push(issueObj);
+        console.log(issue);
+    }
+   
+
+
     
 }
 
 
 module.exports = {
     issuesMod : issues
-}
+} */
