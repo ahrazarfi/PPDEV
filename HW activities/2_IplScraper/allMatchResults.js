@@ -6,18 +6,18 @@ let singleMatchObject = require("./singleMatch");
 
 let allMatchResultsPageUrl = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/match-results";
 
-function allMatchResultsHandler(url){
+function allMatchResultsHandler(allMatchResultsPageUrl){
     request(url, allMatchResultsCb);
-}
-
-//callback function
-function allMatchResultsCb(error, response, html){
-    if(error){
-        console.log(error);
-    } else{
-        allMatchResultExtractor(html);
+    //callback function
+    function allMatchResultsCb(error, response, html){
+        if(error){
+            console.log(error);
+        } else{
+            allMatchResultExtractor(html);
+        }
     }
 }
+
 
 //function to extract all Match scorecards
 function allMatchResultExtractor(html) {
@@ -26,29 +26,33 @@ function allMatchResultExtractor(html) {
     let scorecardArr = sel(".match-info-link-FIXTURES");
     let teamArr = sel(".match-info.match-info-FIXTURES p");
 
-/*     //array to create team directory
-    for(let i=0;i<teamArr.length;i++){
-        var teamName = sel(teamArr[i]).text();
-        // console.log(teamName);
-        teamNameDirectoryCreator(teamName);
-    } */
-
     //array for scorecard URL
     for(let i=0;i<scorecardArr.length;i++){
         let matchLink = espnUrl + sel(scorecardArr[i]).attr("href");
         // console.log(matchLink);
         singleMatchObject.singleMatchMod(matchLink);
     }
-    // console.log(scorecardArr.length); 
+    
 }
 
-/* //Team Name Directory Creator
-function teamNameDirectoryCreator(team){
-    let pathofDirectory = path.join(__dirname + "/Teams", team)
-    if(fs.existsSync(pathofDirectory) == false) {
-        fs.mkdirSync(pathofDirectory);
+
+// single match handler
+function singleMatchHandler(link){
+    request(link, singleMatchCb);
+
+    //callback function
+    function singleMatchCb(error, response, html){
+        if(error){
+            console.log(error);
+        } else {
+            singleMatchExtractor(html);
+        }
     }
-}
- */
 
-allMatchResultsHandler(allMatchResultsPageUrl);
+}
+
+
+//single Match data extractor function
+function singleMatchExtractor(html){
+    
+}
