@@ -2,7 +2,11 @@ let request = require("request") ;
 let cheerio = require("cheerio");
 let path = require("path");
 let fs = require("fs");
+<<<<<<< HEAD
 let pdf = require("pdfkit");
+=======
+let singleMatchObject = require("./singleMatch");
+>>>>>>> test
 
 let allMatchResultsPageUrl = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/match-results";
 
@@ -16,6 +20,7 @@ function allMatchResultsHandler(url){
             allMatchResultExtractor(html);
         }
     }
+<<<<<<< HEAD
 
     //function to extract all Match scorecards
     function allMatchResultExtractor(html) {
@@ -132,3 +137,32 @@ function singleMatchHandler(link){
 
 
 allMatchResultsHandler(allMatchResultsPageUrl);
+=======
+}
+
+
+//function to extract all Match scorecards
+function allMatchResultExtractor(html) {
+    let sel = cheerio.load(html);
+    let espnUrl = "https://www.espncricinfo.com";
+    let scorecardArr = sel(".match-info-link-FIXTURES");
+    // let teamArr = sel(".match-info.match-info-FIXTURES p");
+
+/*     //array to create team directory
+    for(let i=0;i<teamArr.length;i++){
+        var teamName = sel(teamArr[i]).text();
+        // console.log(teamName);
+        teamNameDirectoryCreator(teamName);
+    } */
+
+    //array for scorecard URL
+    for(let i=0;i<scorecardArr.length;i++){
+        let matchLink = espnUrl + sel(scorecardArr[i]).attr("href");
+        // console.log(matchLink);
+        singleMatchObject.singleMatchMod(matchLink);
+    }
+    // console.log(scorecardArr.length); 
+}
+
+allMatchResultsHandler(allMatchResultsPageUrl);
+>>>>>>> test
