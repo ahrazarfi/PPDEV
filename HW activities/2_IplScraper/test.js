@@ -60,6 +60,14 @@ function gotMatchLinkHTML(html){
 
             let path =  createJSON(selTool(bothTeams[i]).text(), batsmenName);
             
+            // handling edge case
+            // let a = path.split(".")[0];
+            console.log(path.split(bothTeams[i] + "/" )[0]);
+            // if(a == false){
+            //     continue;
+            // }
+
+            
         
             function opponentSetter(){
                 if(i==0){
