@@ -1,0 +1,53 @@
+[
+     {
+          "Player Name": "Tom Curran",
+          "Runs": "54",
+          "Balls": "36",
+          "Fours": "2",
+          "Sixes": "3",
+          "Strike Rate": "150.00",
+          "Date": " Sep 30 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 37 runs"
+     }
+][
+     {
+          "Player Name": "Tom Curran",
+          "Runs": "15",
+          "Balls": "16",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "93.75",
+          "Date": " Oct 6 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 57 runs"
+     }
+][
+     {
+          "Player Name": "Tom Curran",
+          "Runs": "10",
+          "Balls": "9",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "111.11",
+          "Date": " Sep 22 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Royals won by 16 runs"
+     }
+][
+     {
+          "Player Name": "Tom Curran",
+          "Runs": "4",
+          "Balls": "1",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "400.00",
+          "Date": " Sep 27 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Royals won by 4 wickets (with 3 balls remaining)"
+     }
+]

@@ -1,0 +1,40 @@
+[
+     {
+          "Player Name": "Varun Chakravarthy",
+          "Runs": "2",
+          "Balls": "4",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "50.00",
+          "Date": " Oct 26 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Varun Chakravarthy",
+          "Runs": "1",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "100.00",
+          "Date": " Oct 7 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "KKR won by 10 runs"
+     }
+][
+     {
+          "Player Name": "Varun Chakravarthy",
+          "Runs": "7",
+          "Balls": "10",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "70.00",
+          "Date": " Oct 12 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 82 runs"
+     }
+]

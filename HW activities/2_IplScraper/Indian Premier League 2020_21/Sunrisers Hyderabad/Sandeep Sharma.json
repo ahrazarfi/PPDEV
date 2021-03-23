@@ -1,0 +1,66 @@
+[
+     {
+          "Player Name": "Sandeep Sharma",
+          "Runs": "2",
+          "Balls": "4",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "50.00",
+          "Date": " Nov 8 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 17 runs"
+     }
+][
+     {
+          "Player Name": "Sandeep Sharma",
+          "Runs": "0",
+          "Balls": "2",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Oct 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 12 runs"
+     }
+][
+     {
+          "Player Name": "Sandeep Sharma",
+          "Runs": "1",
+          "Balls": "2",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "50.00",
+          "Date": " Oct 13 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 20 runs"
+     }
+][
+     {
+          "Player Name": "Sandeep Sharma",
+          "Runs": "0",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Oct 4 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 34 runs"
+     }
+][
+     {
+          "Player Name": "Sandeep Sharma",
+          "Runs": "9",
+          "Balls": "6",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "150.00",
+          "Date": " Sep 21 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 10 runs"
+     }
+]
