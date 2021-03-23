@@ -1,5 +1,4 @@
-node_modules
-fstest.js
 index.js
 test.js
-
+node_modules
+test.js
