@@ -49,7 +49,7 @@ function gotMatchLinkHTML(html){
         
 
 
-        for(let j=0; j<team1_batsmen.length; j++){ // get relevant batsmen row
+        for(let j=0; j<team1_batsmen.length-1; j+=2){ // get relevant batsmen row
             // let batsmenAnchor = selTool(team1_batsmen[j]).find("a");
             
             //ahraz
@@ -62,7 +62,7 @@ function gotMatchLinkHTML(html){
             
             // handling edge case
             // let a = path.split(".")[0];
-            console.log(path.split(bothTeams[i] + "/" )[0]);
+            // console.log(path.split(bothTeams[i])[1]);
             // if(a == false){
             //     continue;
             // }
@@ -101,7 +101,7 @@ function gotMatchLinkHTML(html){
 
             playerArr.push(playerObj);
 
-            fs.appendFileSync(path, JSON.stringify(playerArr));
+            fs.appendFileSync(path, JSON.stringify(playerArr, null, 5));
             //ahraz
             
             // let batsmenName = selTool(batsmenAnchor).text();

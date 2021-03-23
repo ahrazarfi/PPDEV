@@ -1,0 +1,40 @@
+[
+     {
+          "Player Name": "Karun Nair",
+          "Runs": "15",
+          "Balls": "8",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "187.50",
+          "Date": " Sep 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Kings XI won by 97 runs"
+     }
+][
+     {
+          "Player Name": "Karun Nair",
+          "Runs": "0",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Oct 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 48 runs"
+     }
+][
+     {
+          "Player Name": "Karun Nair",
+          "Runs": "1",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "33.33",
+          "Date": " Sep 20 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Match tied (Capitals won the one-over eliminator)"
+     }
+]
