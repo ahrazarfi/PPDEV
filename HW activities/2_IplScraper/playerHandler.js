@@ -3,7 +3,16 @@ let cheerio = require("cheerio");
 let path = require("path");
 let fs = require("fs");
 
-function playerHandler(selTool, batCol, jsonFilePath, playerName, opponentName, date, venue, result) {
+function playerHandler(
+  selTool,
+  batCol,
+  jsonFilePath,
+  playerName,
+  opponentName,
+  date,
+  venue,
+  result
+) {
   let runs = selTool(batCol[2]).text();
   let balls = selTool(batCol[3]).text();
   let fours = selTool(batCol[5]).text();
@@ -14,16 +23,16 @@ function playerHandler(selTool, batCol, jsonFilePath, playerName, opponentName, 
 
   let playerObj = {
     "Player Name": playerName,
-    "Runs": runs,
-    "Balls": balls,
-    "Fours": fours,
-    "Sixes": sixes,
+    Runs: runs,
+    Balls: balls,
+    Fours: fours,
+    Sixes: sixes,
     "Strike Rate": sr,
-    "Date": date,
-    "Venue": venue,
+    Date: date,
+    Venue: venue,
     "Opponent Name": opponentName,
-    "Result": result
-  }
+    Result: result,
+  };
 
   playerArr.push(playerObj);
 
@@ -31,5 +40,5 @@ function playerHandler(selTool, batCol, jsonFilePath, playerName, opponentName, 
 }
 
 module.exports = {
-  player: playerHandler
-}
+  player: playerHandler,
+};

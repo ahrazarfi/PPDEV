@@ -19,16 +19,16 @@ function jsonFileCreator(team, player) {
   return jsonFilePath;
 }
 
-function createIPLFolder(name){
-    let folderPath = path.join(__dirname, name);
-    if (fs.existsSync(folderPath) == false) {
-      fs.mkdirSync(folderPath);
-    }
-    return folderPath;
+function createIPLFolder(name) {
+  let folderPath = path.join(__dirname, name);
+  if (fs.existsSync(folderPath) == false) {
+    fs.mkdirSync(folderPath);
   }
+  return folderPath;
+}
 
 module.exports = {
   createIPLFolder: createIPLFolder,
   dirCreator: teamNameDirectoryCreator,
-  jsonFileCreator: jsonFileCreator
-}
+  jsonFileCreator: jsonFileCreator,
+};
