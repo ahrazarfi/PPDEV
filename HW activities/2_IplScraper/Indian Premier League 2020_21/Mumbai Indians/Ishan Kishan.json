@@ -14,28 +14,15 @@
 ][
      {
           "Player Name": "Ishan Kishan",
-          "Runs": "72",
-          "Balls": "47",
-          "Fours": "8",
-          "Sixes": "3",
-          "Strike Rate": "153.19",
-          "Date": " Oct 31 2020",
+          "Runs": "7",
+          "Balls": "7",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "100.00",
+          "Date": " Oct 18 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Ishan Kishan",
-          "Runs": "25",
-          "Balls": "19",
-          "Fours": "3",
-          "Sixes": "1",
-          "Strike Rate": "131.58",
-          "Date": " Oct 28 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Match tied (Kings XI won the one-over eliminator)"
      }
 ][
      {
@@ -53,58 +40,6 @@
 ][
      {
           "Player Name": "Ishan Kishan",
-          "Runs": "55",
-          "Balls": "30",
-          "Fours": "4",
-          "Sixes": "3",
-          "Strike Rate": "183.33",
-          "Date": " Nov 5 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Mum Indians won by 57 runs"
-     }
-][
-     {
-          "Player Name": "Ishan Kishan",
-          "Runs": "37",
-          "Balls": "36",
-          "Fours": "4",
-          "Sixes": "1",
-          "Strike Rate": "102.78",
-          "Date": " Oct 25 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Ishan Kishan",
-          "Runs": "7",
-          "Balls": "7",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "100.00",
-          "Date": " Oct 18 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Match tied (Kings XI won the one-over eliminator)"
-     }
-][
-     {
-          "Player Name": "Ishan Kishan",
-          "Runs": "28",
-          "Balls": "15",
-          "Fours": "2",
-          "Sixes": "2",
-          "Strike Rate": "186.67",
-          "Date": " Oct 11 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Mum Indians won by 5 wickets (with 2 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Ishan Kishan",
           "Runs": "33",
           "Balls": "30",
           "Fours": "1",
@@ -114,6 +49,32 @@
           "Venue": " Sharjah",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Sunrisers won by 10 wickets (with 17 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Ishan Kishan",
+          "Runs": "25",
+          "Balls": "19",
+          "Fours": "3",
+          "Sixes": "1",
+          "Strike Rate": "131.58",
+          "Date": " Oct 28 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Ishan Kishan",
+          "Runs": "55",
+          "Balls": "30",
+          "Fours": "4",
+          "Sixes": "3",
+          "Strike Rate": "183.33",
+          "Date": " Nov 5 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Mum Indians won by 57 runs"
      }
 ][
      {
@@ -144,6 +105,19 @@
 ][
      {
           "Player Name": "Ishan Kishan",
+          "Runs": "37",
+          "Balls": "36",
+          "Fours": "4",
+          "Sixes": "1",
+          "Strike Rate": "102.78",
+          "Date": " Oct 25 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Ishan Kishan",
           "Runs": "31",
           "Balls": "23",
           "Fours": "1",
@@ -153,6 +127,32 @@
           "Venue": " Sharjah",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Mum Indians won by 34 runs"
+     }
+][
+     {
+          "Player Name": "Ishan Kishan",
+          "Runs": "28",
+          "Balls": "15",
+          "Fours": "2",
+          "Sixes": "2",
+          "Strike Rate": "186.67",
+          "Date": " Oct 11 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Mum Indians won by 5 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Ishan Kishan",
+          "Runs": "72",
+          "Balls": "47",
+          "Fours": "8",
+          "Sixes": "3",
+          "Strike Rate": "153.19",
+          "Date": " Oct 31 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
      }
 ][
      {

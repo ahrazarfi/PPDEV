@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Shivam Mavi",
+          "Runs": "0",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Oct 7 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "KKR won by 10 runs"
+     }
+][
+     {
+          "Player Name": "Shivam Mavi",
           "Runs": "9",
           "Balls": "10",
           "Fours": "1",
@@ -23,18 +36,5 @@
           "Venue": " Sharjah",
           "Opponent Name": "Delhi Capitals",
           "Result": "Capitals won by 18 runs"
-     }
-][
-     {
-          "Player Name": "Shivam Mavi",
-          "Runs": "0",
-          "Balls": "1",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Oct 7 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "KKR won by 10 runs"
      }
 ]

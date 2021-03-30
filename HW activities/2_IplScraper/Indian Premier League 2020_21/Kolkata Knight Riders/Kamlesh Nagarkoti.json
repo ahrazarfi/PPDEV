@@ -1,28 +1,15 @@
 [
      {
           "Player Name": "Kamlesh Nagarkoti",
-          "Runs": "6",
-          "Balls": "13",
+          "Runs": "4",
+          "Balls": "7",
           "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "46.15",
-          "Date": " Oct 26 2020",
+          "Strike Rate": "57.14",
+          "Date": " Oct 12 2020",
           "Venue": " Sharjah",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Kamlesh Nagarkoti",
-          "Runs": "3",
-          "Balls": "3",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "100.00",
-          "Date": " Oct 3 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 18 runs"
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 82 runs"
      }
 ][
      {
@@ -66,14 +53,27 @@
 ][
      {
           "Player Name": "Kamlesh Nagarkoti",
-          "Runs": "4",
-          "Balls": "7",
+          "Runs": "6",
+          "Balls": "13",
           "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "57.14",
-          "Date": " Oct 12 2020",
+          "Strike Rate": "46.15",
+          "Date": " Oct 26 2020",
           "Venue": " Sharjah",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 82 runs"
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Kamlesh Nagarkoti",
+          "Runs": "3",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "100.00",
+          "Date": " Oct 3 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 18 runs"
      }
 ]

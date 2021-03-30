@@ -1,19 +1,6 @@
 [
      {
           "Player Name": "Harshal Patel",
-          "Runs": "5",
-          "Balls": "9",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "55.56",
-          "Date": " Oct 31 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Harshal Patel",
           "Runs": "16",
           "Balls": "15",
           "Fours": "1",
@@ -23,5 +10,18 @@
           "Venue": " Sharjah",
           "Opponent Name": "Rajasthan Royals",
           "Result": "Capitals won by 46 runs"
+     }
+][
+     {
+          "Player Name": "Harshal Patel",
+          "Runs": "5",
+          "Balls": "9",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "55.56",
+          "Date": " Oct 31 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
      }
 ]

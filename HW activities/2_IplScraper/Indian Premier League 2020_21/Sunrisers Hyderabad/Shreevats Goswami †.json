@@ -2,19 +2,6 @@
      {
           "Player Name": "Shreevats Goswami †",
           "Runs": "0",
-          "Balls": "1",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Nov 8 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 17 runs"
-     }
-][
-     {
-          "Player Name": "Shreevats Goswami †",
-          "Runs": "0",
           "Balls": "3",
           "Fours": "0",
           "Sixes": "0",
@@ -23,5 +10,18 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Royal Challengers Bangalore",
           "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Shreevats Goswami †",
+          "Runs": "0",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Nov 8 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 17 runs"
      }
 ]

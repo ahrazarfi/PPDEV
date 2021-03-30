@@ -1,80 +1,15 @@
 [
      {
           "Player Name": "Glenn Maxwell",
-          "Runs": "6",
-          "Balls": "6",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "100.00",
-          "Date": " Oct 30 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Glenn Maxwell",
-          "Runs": "11",
-          "Balls": "7",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "157.14",
-          "Date": " Oct 4 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 10 wickets (with 14 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Glenn Maxwell",
-          "Runs": "10",
-          "Balls": "5",
+          "Runs": "13",
+          "Balls": "9",
           "Fours": "2",
           "Sixes": "0",
-          "Strike Rate": "200.00",
-          "Date": " Oct 10 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 2 runs"
-     }
-][
-     {
-          "Player Name": "Glenn Maxwell",
-          "Runs": "12",
-          "Balls": "13",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "92.31",
-          "Date": " Oct 24 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Kings XI won by 12 runs"
-     }
-][
-     {
-          "Player Name": "Glenn Maxwell",
-          "Runs": "5",
-          "Balls": "6",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "83.33",
-          "Date": " Sep 24 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Kings XI won by 97 runs"
-     }
-][
-     {
-          "Player Name": "Glenn Maxwell",
-          "Runs": "32",
-          "Balls": "24",
-          "Fours": "3",
-          "Sixes": "0",
-          "Strike Rate": "133.33",
-          "Date": " Oct 20 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
+          "Strike Rate": "144.44",
+          "Date": " Sep 27 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 4 wickets (with 3 balls remaining)"
      }
 ][
      {
@@ -93,27 +28,27 @@
      {
           "Player Name": "Glenn Maxwell",
           "Runs": "11",
-          "Balls": "18",
-          "Fours": "0",
+          "Balls": "7",
+          "Fours": "1",
           "Sixes": "0",
-          "Strike Rate": "61.11",
-          "Date": " Oct 1 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 48 runs"
+          "Strike Rate": "157.14",
+          "Date": " Oct 4 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 10 wickets (with 14 balls remaining)"
      }
 ][
      {
           "Player Name": "Glenn Maxwell",
-          "Runs": "7",
-          "Balls": "12",
-          "Fours": "0",
+          "Runs": "6",
+          "Balls": "6",
+          "Fours": "1",
           "Sixes": "0",
-          "Strike Rate": "58.33",
-          "Date": " Oct 8 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 69 runs"
+          "Strike Rate": "100.00",
+          "Date": " Oct 30 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
      }
 ][
      {
@@ -131,14 +66,79 @@
 ][
      {
           "Player Name": "Glenn Maxwell",
-          "Runs": "13",
-          "Balls": "9",
+          "Runs": "5",
+          "Balls": "6",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "83.33",
+          "Date": " Sep 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Kings XI won by 97 runs"
+     }
+][
+     {
+          "Player Name": "Glenn Maxwell",
+          "Runs": "12",
+          "Balls": "13",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "92.31",
+          "Date": " Oct 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Kings XI won by 12 runs"
+     }
+][
+     {
+          "Player Name": "Glenn Maxwell",
+          "Runs": "11",
+          "Balls": "18",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "61.11",
+          "Date": " Oct 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 48 runs"
+     }
+][
+     {
+          "Player Name": "Glenn Maxwell",
+          "Runs": "32",
+          "Balls": "24",
+          "Fours": "3",
+          "Sixes": "0",
+          "Strike Rate": "133.33",
+          "Date": " Oct 20 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Glenn Maxwell",
+          "Runs": "7",
+          "Balls": "12",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "58.33",
+          "Date": " Oct 8 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 69 runs"
+     }
+][
+     {
+          "Player Name": "Glenn Maxwell",
+          "Runs": "10",
+          "Balls": "5",
           "Fours": "2",
           "Sixes": "0",
-          "Strike Rate": "144.44",
-          "Date": " Sep 27 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 4 wickets (with 3 balls remaining)"
+          "Strike Rate": "200.00",
+          "Date": " Oct 10 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 2 runs"
      }
 ]

@@ -1,19 +1,6 @@
 [
      {
           "Player Name": "Jonny Bairstow †",
-          "Runs": "19",
-          "Balls": "20",
-          "Fours": "4",
-          "Sixes": "0",
-          "Strike Rate": "95.00",
-          "Date": " Oct 24 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 12 runs"
-     }
-][
-     {
-          "Player Name": "Jonny Bairstow †",
           "Runs": "10",
           "Balls": "7",
           "Fours": "1",
@@ -27,54 +14,41 @@
 ][
      {
           "Player Name": "Jonny Bairstow †",
-          "Runs": "36",
-          "Balls": "28",
-          "Fours": "7",
+          "Runs": "0",
+          "Balls": "3",
+          "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "128.57",
-          "Date": " Oct 18 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "Match tied (KKR won the one-over eliminator)"
-     }
-][
-     {
-          "Player Name": "Jonny Bairstow †",
-          "Runs": "23",
-          "Balls": "24",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "95.83",
-          "Date": " Oct 13 2020",
+          "Strike Rate": "0.00",
+          "Date": " Oct 2 2020",
           "Venue": " Dubai",
           "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 20 runs"
+          "Result": "Sunrisers won by 7 runs"
      }
 ][
      {
           "Player Name": "Jonny Bairstow †",
-          "Runs": "16",
-          "Balls": "19",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "84.21",
-          "Date": " Oct 11 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
-     }
-][
-     {
-          "Player Name": "Jonny Bairstow †",
-          "Runs": "25",
-          "Balls": "15",
+          "Runs": "53",
+          "Balls": "48",
           "Fours": "2",
-          "Sixes": "2",
-          "Strike Rate": "166.67",
-          "Date": " Oct 4 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 34 runs"
+          "Sixes": "1",
+          "Strike Rate": "110.42",
+          "Date": " Sep 29 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Sunrisers won by 15 runs"
+     }
+][
+     {
+          "Player Name": "Jonny Bairstow †",
+          "Runs": "19",
+          "Balls": "20",
+          "Fours": "4",
+          "Sixes": "0",
+          "Strike Rate": "95.00",
+          "Date": " Oct 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 12 runs"
      }
 ][
      {
@@ -105,27 +79,53 @@
 ][
      {
           "Player Name": "Jonny Bairstow †",
-          "Runs": "0",
-          "Balls": "3",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Oct 2 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Sunrisers won by 7 runs"
+          "Runs": "25",
+          "Balls": "15",
+          "Fours": "2",
+          "Sixes": "2",
+          "Strike Rate": "166.67",
+          "Date": " Oct 4 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 34 runs"
      }
 ][
      {
           "Player Name": "Jonny Bairstow †",
-          "Runs": "53",
-          "Balls": "48",
-          "Fours": "2",
+          "Runs": "16",
+          "Balls": "19",
+          "Fours": "0",
           "Sixes": "1",
-          "Strike Rate": "110.42",
-          "Date": " Sep 29 2020",
+          "Strike Rate": "84.21",
+          "Date": " Oct 11 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
+     }
+][
+     {
+          "Player Name": "Jonny Bairstow †",
+          "Runs": "36",
+          "Balls": "28",
+          "Fours": "7",
+          "Sixes": "0",
+          "Strike Rate": "128.57",
+          "Date": " Oct 18 2020",
           "Venue": " Abu Dhabi",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Sunrisers won by 15 runs"
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "Match tied (KKR won the one-over eliminator)"
+     }
+][
+     {
+          "Player Name": "Jonny Bairstow †",
+          "Runs": "23",
+          "Balls": "24",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "95.83",
+          "Date": " Oct 13 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 20 runs"
      }
 ]

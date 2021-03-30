@@ -1,15 +1,28 @@
 [
      {
           "Player Name": "Riyan Parag",
-          "Runs": "16",
-          "Balls": "18",
+          "Runs": "6",
+          "Balls": "4",
           "Fours": "1",
           "Sixes": "0",
-          "Strike Rate": "88.89",
-          "Date": " Oct 3 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
+          "Strike Rate": "150.00",
+          "Date": " Sep 22 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Royals won by 16 runs"
+     }
+][
+     {
+          "Player Name": "Riyan Parag",
+          "Runs": "0",
+          "Balls": "2",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Sep 27 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Royals won by 4 wickets (with 3 balls remaining)"
      }
 ][
      {
@@ -27,15 +40,28 @@
 ][
      {
           "Player Name": "Riyan Parag",
-          "Runs": "42",
-          "Balls": "26",
-          "Fours": "2",
-          "Sixes": "2",
-          "Strike Rate": "161.54",
-          "Date": " Oct 11 2020",
+          "Runs": "1",
+          "Balls": "2",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "50.00",
+          "Date": " Oct 14 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 13 runs"
+     }
+][
+     {
+          "Player Name": "Riyan Parag",
+          "Runs": "16",
+          "Balls": "18",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "88.89",
+          "Date": " Oct 3 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
      }
 ][
      {
@@ -66,40 +92,14 @@
 ][
      {
           "Player Name": "Riyan Parag",
-          "Runs": "6",
-          "Balls": "4",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "150.00",
-          "Date": " Sep 22 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Royals won by 16 runs"
-     }
-][
-     {
-          "Player Name": "Riyan Parag",
-          "Runs": "0",
-          "Balls": "2",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Sep 27 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Royals won by 4 wickets (with 3 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Riyan Parag",
-          "Runs": "1",
-          "Balls": "2",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "50.00",
-          "Date": " Oct 14 2020",
+          "Runs": "42",
+          "Balls": "26",
+          "Fours": "2",
+          "Sixes": "2",
+          "Strike Rate": "161.54",
+          "Date": " Oct 11 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 13 runs"
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
      }
 ]

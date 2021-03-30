@@ -1,123 +1,6 @@
 [
      {
           "Player Name": "Robin Uthappa",
-          "Runs": "30",
-          "Balls": "23",
-          "Fours": "1",
-          "Sixes": "2",
-          "Strike Rate": "130.43",
-          "Date": " Oct 30 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "17",
-          "Balls": "22",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "77.27",
-          "Date": " Oct 3 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "19",
-          "Balls": "13",
-          "Fours": "2",
-          "Sixes": "1",
-          "Strike Rate": "146.15",
-          "Date": " Oct 22 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "4",
-          "Balls": "9",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "44.44",
-          "Date": " Oct 19 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "41",
-          "Balls": "22",
-          "Fours": "7",
-          "Sixes": "1",
-          "Strike Rate": "186.36",
-          "Date": " Oct 17 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "13",
-          "Balls": "11",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "118.18",
-          "Date": " Oct 25 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "18",
-          "Balls": "15",
-          "Fours": "1",
-          "Sixes": "1",
-          "Strike Rate": "120.00",
-          "Date": " Oct 11 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "2",
-          "Balls": "7",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "28.57",
-          "Date": " Sep 30 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 37 runs"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
-          "Runs": "6",
-          "Balls": "2",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "300.00",
-          "Date": " Nov 1 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 60 runs"
-     }
-][
-     {
-          "Player Name": "Robin Uthappa",
           "Runs": "5",
           "Balls": "9",
           "Fours": "0",
@@ -144,6 +27,45 @@
 ][
      {
           "Player Name": "Robin Uthappa",
+          "Runs": "41",
+          "Balls": "22",
+          "Fours": "7",
+          "Sixes": "1",
+          "Strike Rate": "186.36",
+          "Date": " Oct 17 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "30",
+          "Balls": "23",
+          "Fours": "1",
+          "Sixes": "2",
+          "Strike Rate": "130.43",
+          "Date": " Oct 30 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "19",
+          "Balls": "13",
+          "Fours": "2",
+          "Sixes": "1",
+          "Strike Rate": "146.15",
+          "Date": " Oct 22 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
           "Runs": "32",
           "Balls": "27",
           "Fours": "3",
@@ -153,5 +75,83 @@
           "Venue": " Dubai",
           "Opponent Name": "Delhi Capitals",
           "Result": "Capitals won by 13 runs"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "17",
+          "Balls": "22",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "77.27",
+          "Date": " Oct 3 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "2",
+          "Balls": "7",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "28.57",
+          "Date": " Sep 30 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 37 runs"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "13",
+          "Balls": "11",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "118.18",
+          "Date": " Oct 25 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "6",
+          "Balls": "2",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "300.00",
+          "Date": " Nov 1 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 60 runs"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "18",
+          "Balls": "15",
+          "Fours": "1",
+          "Sixes": "1",
+          "Strike Rate": "120.00",
+          "Date": " Oct 11 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
+     }
+][
+     {
+          "Player Name": "Robin Uthappa",
+          "Runs": "4",
+          "Balls": "9",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "44.44",
+          "Date": " Oct 19 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
      }
 ]

@@ -1,15 +1,15 @@
 [
      {
           "Player Name": "Murali Vijay",
-          "Runs": "1",
-          "Balls": "7",
-          "Fours": "0",
+          "Runs": "21",
+          "Balls": "21",
+          "Fours": "3",
           "Sixes": "0",
-          "Strike Rate": "14.29",
-          "Date": " Sep 19 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Super Kings won by 5 wickets (with 4 balls remaining)"
+          "Strike Rate": "100.00",
+          "Date": " Sep 22 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 16 runs"
      }
 ][
      {
@@ -27,14 +27,14 @@
 ][
      {
           "Player Name": "Murali Vijay",
-          "Runs": "21",
-          "Balls": "21",
-          "Fours": "3",
+          "Runs": "1",
+          "Balls": "7",
+          "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "100.00",
-          "Date": " Sep 22 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 16 runs"
+          "Strike Rate": "14.29",
+          "Date": " Sep 19 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Super Kings won by 5 wickets (with 4 balls remaining)"
      }
 ]

@@ -1,93 +1,15 @@
 [
      {
           "Player Name": "KL Rahul (c)†",
-          "Runs": "46",
-          "Balls": "41",
-          "Fours": "3",
-          "Sixes": "2",
-          "Strike Rate": "112.20",
-          "Date": " Oct 30 2020",
-          "Venue": " Abu Dhabi",
+          "Runs": "69",
+          "Balls": "54",
+          "Fours": "7",
+          "Sixes": "1",
+          "Strike Rate": "127.78",
+          "Date": " Sep 27 2020",
+          "Venue": " Sharjah",
           "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "KL Rahul (c)†",
-          "Runs": "27",
-          "Balls": "27",
-          "Fours": "2",
-          "Sixes": "1",
-          "Strike Rate": "100.00",
-          "Date": " Oct 24 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Kings XI won by 12 runs"
-     }
-][
-     {
-          "Player Name": "KL Rahul (c)†",
-          "Runs": "132",
-          "Balls": "69",
-          "Fours": "14",
-          "Sixes": "7",
-          "Strike Rate": "191.30",
-          "Date": " Sep 24 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Kings XI won by 97 runs"
-     }
-][
-     {
-          "Player Name": "KL Rahul (c)†",
-          "Runs": "28",
-          "Balls": "25",
-          "Fours": "4",
-          "Sixes": "0",
-          "Strike Rate": "112.00",
-          "Date": " Oct 26 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
-     }
-][
-     {
-          "Player Name": "KL Rahul (c)†",
-          "Runs": "29",
-          "Balls": "27",
-          "Fours": "3",
-          "Sixes": "1",
-          "Strike Rate": "107.41",
-          "Date": " Nov 1 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 9 wickets (with 7 balls remaining)"
-     }
-][
-     {
-          "Player Name": "KL Rahul (c)†",
-          "Runs": "15",
-          "Balls": "11",
-          "Fours": "1",
-          "Sixes": "1",
-          "Strike Rate": "136.36",
-          "Date": " Oct 20 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
-     }
-][
-     {
-          "Player Name": "KL Rahul (c)†",
-          "Runs": "61",
-          "Balls": "49",
-          "Fours": "1",
-          "Sixes": "5",
-          "Strike Rate": "124.49",
-          "Date": " Oct 15 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Kings XI won by 8 wickets"
+          "Result": "Royals won by 4 wickets (with 3 balls remaining)"
      }
 ][
      {
@@ -105,15 +27,28 @@
 ][
      {
           "Player Name": "KL Rahul (c)†",
-          "Runs": "17",
-          "Balls": "19",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "89.47",
-          "Date": " Oct 1 2020",
+          "Runs": "46",
+          "Balls": "41",
+          "Fours": "3",
+          "Sixes": "2",
+          "Strike Rate": "112.20",
+          "Date": " Oct 30 2020",
           "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 48 runs"
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
+     }
+][
+     {
+          "Player Name": "KL Rahul (c)†",
+          "Runs": "29",
+          "Balls": "27",
+          "Fours": "3",
+          "Sixes": "1",
+          "Strike Rate": "107.41",
+          "Date": " Nov 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 9 wickets (with 7 balls remaining)"
      }
 ][
      {
@@ -131,14 +66,79 @@
 ][
      {
           "Player Name": "KL Rahul (c)†",
-          "Runs": "69",
-          "Balls": "54",
-          "Fours": "7",
+          "Runs": "132",
+          "Balls": "69",
+          "Fours": "14",
+          "Sixes": "7",
+          "Strike Rate": "191.30",
+          "Date": " Sep 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Kings XI won by 97 runs"
+     }
+][
+     {
+          "Player Name": "KL Rahul (c)†",
+          "Runs": "27",
+          "Balls": "27",
+          "Fours": "2",
           "Sixes": "1",
-          "Strike Rate": "127.78",
-          "Date": " Sep 27 2020",
+          "Strike Rate": "100.00",
+          "Date": " Oct 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Kings XI won by 12 runs"
+     }
+][
+     {
+          "Player Name": "KL Rahul (c)†",
+          "Runs": "17",
+          "Balls": "19",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "89.47",
+          "Date": " Oct 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 48 runs"
+     }
+][
+     {
+          "Player Name": "KL Rahul (c)†",
+          "Runs": "15",
+          "Balls": "11",
+          "Fours": "1",
+          "Sixes": "1",
+          "Strike Rate": "136.36",
+          "Date": " Oct 20 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
+     }
+][
+     {
+          "Player Name": "KL Rahul (c)†",
+          "Runs": "28",
+          "Balls": "25",
+          "Fours": "4",
+          "Sixes": "0",
+          "Strike Rate": "112.00",
+          "Date": " Oct 26 2020",
           "Venue": " Sharjah",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 4 wickets (with 3 balls remaining)"
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+     }
+][
+     {
+          "Player Name": "KL Rahul (c)†",
+          "Runs": "61",
+          "Balls": "49",
+          "Fours": "1",
+          "Sixes": "5",
+          "Strike Rate": "124.49",
+          "Date": " Oct 15 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Kings XI won by 8 wickets"
      }
 ]

@@ -14,19 +14,6 @@
 ][
      {
           "Player Name": "Shimron Hetmyer",
-          "Runs": "11",
-          "Balls": "13",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "84.62",
-          "Date": " Oct 31 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Shimron Hetmyer",
           "Runs": "42",
           "Balls": "22",
           "Fours": "4",
@@ -53,54 +40,15 @@
 ][
      {
           "Player Name": "Shimron Hetmyer",
-          "Runs": "10",
-          "Balls": "5",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "200.00",
-          "Date": " Oct 24 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 59 runs"
-     }
-][
-     {
-          "Player Name": "Shimron Hetmyer",
-          "Runs": "10",
-          "Balls": "6",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "166.67",
-          "Date": " Oct 20 2020",
+          "Runs": "7",
+          "Balls": "13",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "53.85",
+          "Date": " Sep 20 2020",
           "Venue": " Dubai",
           "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Shimron Hetmyer",
-          "Runs": "7",
-          "Balls": "5",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "140.00",
-          "Date": " Oct 3 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "Capitals won by 18 runs"
-     }
-][
-     {
-          "Player Name": "Shimron Hetmyer",
-          "Runs": "11",
-          "Balls": "7",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "157.14",
-          "Date": " Oct 5 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Capitals won by 59 runs"
+          "Result": "Match tied (Capitals won the one-over eliminator)"
      }
 ][
      {
@@ -118,6 +66,19 @@
 ][
      {
           "Player Name": "Shimron Hetmyer",
+          "Runs": "10",
+          "Balls": "6",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "166.67",
+          "Date": " Oct 20 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Shimron Hetmyer",
           "Runs": "45",
           "Balls": "24",
           "Fours": "1",
@@ -131,14 +92,53 @@
 ][
      {
           "Player Name": "Shimron Hetmyer",
-          "Runs": "7",
+          "Runs": "10",
+          "Balls": "5",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "200.00",
+          "Date": " Oct 24 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 59 runs"
+     }
+][
+     {
+          "Player Name": "Shimron Hetmyer",
+          "Runs": "11",
+          "Balls": "7",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "157.14",
+          "Date": " Oct 5 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Capitals won by 59 runs"
+     }
+][
+     {
+          "Player Name": "Shimron Hetmyer",
+          "Runs": "11",
           "Balls": "13",
           "Fours": "1",
           "Sixes": "0",
-          "Strike Rate": "53.85",
-          "Date": " Sep 20 2020",
+          "Strike Rate": "84.62",
+          "Date": " Oct 31 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Match tied (Capitals won the one-over eliminator)"
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Shimron Hetmyer",
+          "Runs": "7",
+          "Balls": "5",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "140.00",
+          "Date": " Oct 3 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "Capitals won by 18 runs"
      }
 ]

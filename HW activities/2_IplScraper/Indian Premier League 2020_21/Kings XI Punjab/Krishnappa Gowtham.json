@@ -1,19 +1,6 @@
 [
      {
           "Player Name": "Krishnappa Gowtham",
-          "Runs": "22",
-          "Balls": "13",
-          "Fours": "2",
-          "Sixes": "1",
-          "Strike Rate": "169.23",
-          "Date": " Oct 1 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 48 runs"
-     }
-][
-     {
-          "Player Name": "Krishnappa Gowtham",
           "Runs": "20",
           "Balls": "14",
           "Fours": "1",
@@ -23,5 +10,18 @@
           "Venue": " Dubai",
           "Opponent Name": "Delhi Capitals",
           "Result": "Match tied (Capitals won the one-over eliminator)"
+     }
+][
+     {
+          "Player Name": "Krishnappa Gowtham",
+          "Runs": "22",
+          "Balls": "13",
+          "Fours": "2",
+          "Sixes": "1",
+          "Strike Rate": "169.23",
+          "Date": " Oct 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 48 runs"
      }
 ]

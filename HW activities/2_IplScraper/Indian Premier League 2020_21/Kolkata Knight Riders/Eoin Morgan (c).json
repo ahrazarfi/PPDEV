@@ -27,32 +27,6 @@
 ][
      {
           "Player Name": "Eoin Morgan (c)",
-          "Runs": "40",
-          "Balls": "25",
-          "Fours": "5",
-          "Sixes": "2",
-          "Strike Rate": "160.00",
-          "Date": " Oct 26 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Eoin Morgan (c)",
-          "Runs": "34",
-          "Balls": "23",
-          "Fours": "3",
-          "Sixes": "1",
-          "Strike Rate": "147.83",
-          "Date": " Oct 18 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Match tied (KKR won the one-over eliminator)"
-     }
-][
-     {
-          "Player Name": "Eoin Morgan (c)",
           "Runs": "39",
           "Balls": "29",
           "Fours": "2",
@@ -88,5 +62,31 @@
           "Venue": " Dubai",
           "Opponent Name": "Rajasthan Royals",
           "Result": "KKR won by 60 runs"
+     }
+][
+     {
+          "Player Name": "Eoin Morgan (c)",
+          "Runs": "40",
+          "Balls": "25",
+          "Fours": "5",
+          "Sixes": "2",
+          "Strike Rate": "160.00",
+          "Date": " Oct 26 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Eoin Morgan (c)",
+          "Runs": "34",
+          "Balls": "23",
+          "Fours": "3",
+          "Sixes": "1",
+          "Strike Rate": "147.83",
+          "Date": " Oct 18 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Match tied (KKR won the one-over eliminator)"
      }
 ]

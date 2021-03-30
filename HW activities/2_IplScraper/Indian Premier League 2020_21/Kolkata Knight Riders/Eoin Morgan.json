@@ -1,71 +1,6 @@
 [
      {
           "Player Name": "Eoin Morgan",
-          "Runs": "24",
-          "Balls": "23",
-          "Fours": "2",
-          "Sixes": "1",
-          "Strike Rate": "104.35",
-          "Date": " Oct 10 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "KKR won by 2 runs"
-     }
-][
-     {
-          "Player Name": "Eoin Morgan",
-          "Runs": "16",
-          "Balls": "20",
-          "Fours": "1",
-          "Sixes": "1",
-          "Strike Rate": "80.00",
-          "Date": " Sep 23 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 49 runs"
-     }
-][
-     {
-          "Player Name": "Eoin Morgan",
-          "Runs": "44",
-          "Balls": "18",
-          "Fours": "1",
-          "Sixes": "5",
-          "Strike Rate": "244.44",
-          "Date": " Oct 3 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 18 runs"
-     }
-][
-     {
-          "Player Name": "Eoin Morgan",
-          "Runs": "7",
-          "Balls": "10",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "70.00",
-          "Date": " Oct 7 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "KKR won by 10 runs"
-     }
-][
-     {
-          "Player Name": "Eoin Morgan",
-          "Runs": "34",
-          "Balls": "23",
-          "Fours": "1",
-          "Sixes": "2",
-          "Strike Rate": "147.83",
-          "Date": " Sep 30 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "KKR won by 37 runs"
-     }
-][
-     {
-          "Player Name": "Eoin Morgan",
           "Runs": "42",
           "Balls": "29",
           "Fours": "3",
@@ -88,5 +23,70 @@
           "Venue": " Sharjah",
           "Opponent Name": "Royal Challengers Bangalore",
           "Result": "RCB won by 82 runs"
+     }
+][
+     {
+          "Player Name": "Eoin Morgan",
+          "Runs": "7",
+          "Balls": "10",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "70.00",
+          "Date": " Oct 7 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "KKR won by 10 runs"
+     }
+][
+     {
+          "Player Name": "Eoin Morgan",
+          "Runs": "16",
+          "Balls": "20",
+          "Fours": "1",
+          "Sixes": "1",
+          "Strike Rate": "80.00",
+          "Date": " Sep 23 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 49 runs"
+     }
+][
+     {
+          "Player Name": "Eoin Morgan",
+          "Runs": "34",
+          "Balls": "23",
+          "Fours": "1",
+          "Sixes": "2",
+          "Strike Rate": "147.83",
+          "Date": " Sep 30 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "KKR won by 37 runs"
+     }
+][
+     {
+          "Player Name": "Eoin Morgan",
+          "Runs": "24",
+          "Balls": "23",
+          "Fours": "2",
+          "Sixes": "1",
+          "Strike Rate": "104.35",
+          "Date": " Oct 10 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "KKR won by 2 runs"
+     }
+][
+     {
+          "Player Name": "Eoin Morgan",
+          "Runs": "44",
+          "Balls": "18",
+          "Fours": "1",
+          "Sixes": "5",
+          "Strike Rate": "244.44",
+          "Date": " Oct 3 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 18 runs"
      }
 ]

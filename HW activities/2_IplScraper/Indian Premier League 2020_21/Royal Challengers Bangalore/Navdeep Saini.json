@@ -1,19 +1,6 @@
 [
      {
           "Player Name": "Navdeep Saini",
-          "Runs": "6",
-          "Balls": "7",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "85.71",
-          "Date": " Sep 24 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 97 runs"
-     }
-][
-     {
-          "Player Name": "Navdeep Saini",
           "Runs": "9",
           "Balls": "8",
           "Fours": "1",
@@ -23,6 +10,19 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Navdeep Saini",
+          "Runs": "6",
+          "Balls": "7",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "85.71",
+          "Date": " Sep 24 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 97 runs"
      }
 ][
      {

@@ -14,19 +14,6 @@
 ][
      {
           "Player Name": "KL Rahul (c)",
-          "Runs": "74",
-          "Balls": "58",
-          "Fours": "6",
-          "Sixes": "0",
-          "Strike Rate": "127.59",
-          "Date": " Oct 10 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 2 runs"
-     }
-][
-     {
-          "Player Name": "KL Rahul (c)",
           "Runs": "11",
           "Balls": "16",
           "Fours": "0",
@@ -36,5 +23,18 @@
           "Venue": " Dubai",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Sunrisers won by 69 runs"
+     }
+][
+     {
+          "Player Name": "KL Rahul (c)",
+          "Runs": "74",
+          "Balls": "58",
+          "Fours": "6",
+          "Sixes": "0",
+          "Strike Rate": "127.59",
+          "Date": " Oct 10 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 2 runs"
      }
 ]

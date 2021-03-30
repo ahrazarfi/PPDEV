@@ -14,54 +14,15 @@
 ][
      {
           "Player Name": "Quinton de Kock †",
-          "Runs": "26",
-          "Balls": "28",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "92.86",
-          "Date": " Oct 31 2020",
+          "Runs": "53",
+          "Balls": "43",
+          "Fours": "3",
+          "Sixes": "3",
+          "Strike Rate": "123.26",
+          "Date": " Oct 18 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Quinton de Kock †",
-          "Runs": "33",
-          "Balls": "20",
-          "Fours": "5",
-          "Sixes": "0",
-          "Strike Rate": "165.00",
-          "Date": " Sep 19 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 5 wickets (with 4 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Quinton de Kock †",
-          "Runs": "1",
-          "Balls": "3",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "33.33",
-          "Date": " Sep 23 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "Mum Indians won by 49 runs"
-     }
-][
-     {
-          "Player Name": "Quinton de Kock †",
-          "Runs": "18",
-          "Balls": "19",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "94.74",
-          "Date": " Oct 28 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Match tied (Kings XI won the one-over eliminator)"
      }
 ][
      {
@@ -79,15 +40,28 @@
 ][
      {
           "Player Name": "Quinton de Kock †",
-          "Runs": "78",
-          "Balls": "44",
-          "Fours": "9",
-          "Sixes": "3",
-          "Strike Rate": "177.27",
-          "Date": " Oct 16 2020",
+          "Runs": "25",
+          "Balls": "13",
+          "Fours": "2",
+          "Sixes": "2",
+          "Strike Rate": "192.31",
+          "Date": " Nov 3 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 10 wickets (with 17 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Quinton de Kock †",
+          "Runs": "18",
+          "Balls": "19",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "94.74",
+          "Date": " Oct 28 2020",
           "Venue": " Abu Dhabi",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "Mum Indians won by 8 wickets (with 19 balls remaining)"
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
      }
 ][
      {
@@ -105,58 +79,6 @@
 ][
      {
           "Player Name": "Quinton de Kock †",
-          "Runs": "6",
-          "Balls": "4",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "150.00",
-          "Date": " Oct 25 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Quinton de Kock †",
-          "Runs": "53",
-          "Balls": "43",
-          "Fours": "3",
-          "Sixes": "3",
-          "Strike Rate": "123.26",
-          "Date": " Oct 18 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Match tied (Kings XI won the one-over eliminator)"
-     }
-][
-     {
-          "Player Name": "Quinton de Kock †",
-          "Runs": "53",
-          "Balls": "36",
-          "Fours": "4",
-          "Sixes": "3",
-          "Strike Rate": "147.22",
-          "Date": " Oct 11 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Mum Indians won by 5 wickets (with 2 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Quinton de Kock †",
-          "Runs": "25",
-          "Balls": "13",
-          "Fours": "2",
-          "Sixes": "2",
-          "Strike Rate": "192.31",
-          "Date": " Nov 3 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 10 wickets (with 17 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Quinton de Kock †",
           "Runs": "0",
           "Balls": "5",
           "Fours": "0",
@@ -166,6 +88,32 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Kings XI Punjab",
           "Result": "Mum Indians won by 48 runs"
+     }
+][
+     {
+          "Player Name": "Quinton de Kock †",
+          "Runs": "78",
+          "Balls": "44",
+          "Fours": "9",
+          "Sixes": "3",
+          "Strike Rate": "177.27",
+          "Date": " Oct 16 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "Mum Indians won by 8 wickets (with 19 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Quinton de Kock †",
+          "Runs": "33",
+          "Balls": "20",
+          "Fours": "5",
+          "Sixes": "0",
+          "Strike Rate": "165.00",
+          "Date": " Sep 19 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 5 wickets (with 4 balls remaining)"
      }
 ][
      {
@@ -183,6 +131,32 @@
 ][
      {
           "Player Name": "Quinton de Kock †",
+          "Runs": "1",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "33.33",
+          "Date": " Sep 23 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "Mum Indians won by 49 runs"
+     }
+][
+     {
+          "Player Name": "Quinton de Kock †",
+          "Runs": "6",
+          "Balls": "4",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "150.00",
+          "Date": " Oct 25 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Quinton de Kock †",
           "Runs": "67",
           "Balls": "39",
           "Fours": "4",
@@ -192,6 +166,32 @@
           "Venue": " Sharjah",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Mum Indians won by 34 runs"
+     }
+][
+     {
+          "Player Name": "Quinton de Kock †",
+          "Runs": "53",
+          "Balls": "36",
+          "Fours": "4",
+          "Sixes": "3",
+          "Strike Rate": "147.22",
+          "Date": " Oct 11 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Mum Indians won by 5 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Quinton de Kock †",
+          "Runs": "26",
+          "Balls": "28",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "92.86",
+          "Date": " Oct 31 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
      }
 ][
      {

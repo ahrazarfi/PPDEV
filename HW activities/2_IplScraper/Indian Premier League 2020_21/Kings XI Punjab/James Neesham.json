@@ -14,19 +14,6 @@
 ][
      {
           "Player Name": "James Neesham",
-          "Runs": "10",
-          "Balls": "8",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "125.00",
-          "Date": " Oct 20 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
-     }
-][
-     {
-          "Player Name": "James Neesham",
           "Runs": "7",
           "Balls": "7",
           "Fours": "0",
@@ -36,5 +23,18 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Mumbai Indians",
           "Result": "Mum Indians won by 48 runs"
+     }
+][
+     {
+          "Player Name": "James Neesham",
+          "Runs": "10",
+          "Balls": "8",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "125.00",
+          "Date": " Oct 20 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Kings XI won by 5 wickets (with 6 balls remaining)"
      }
 ]

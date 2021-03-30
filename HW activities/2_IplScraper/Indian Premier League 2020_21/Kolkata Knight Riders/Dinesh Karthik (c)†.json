@@ -1,71 +1,6 @@
 [
      {
           "Player Name": "Dinesh Karthik (c)†",
-          "Runs": "58",
-          "Balls": "29",
-          "Fours": "8",
-          "Sixes": "2",
-          "Strike Rate": "200.00",
-          "Date": " Oct 10 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "KKR won by 2 runs"
-     }
-][
-     {
-          "Player Name": "Dinesh Karthik (c)†",
-          "Runs": "30",
-          "Balls": "23",
-          "Fours": "5",
-          "Sixes": "0",
-          "Strike Rate": "130.43",
-          "Date": " Sep 23 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 49 runs"
-     }
-][
-     {
-          "Player Name": "Dinesh Karthik (c)†",
-          "Runs": "6",
-          "Balls": "8",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "75.00",
-          "Date": " Oct 3 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 18 runs"
-     }
-][
-     {
-          "Player Name": "Dinesh Karthik (c)†",
-          "Runs": "12",
-          "Balls": "11",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "109.09",
-          "Date": " Oct 7 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "KKR won by 10 runs"
-     }
-][
-     {
-          "Player Name": "Dinesh Karthik (c)†",
-          "Runs": "1",
-          "Balls": "3",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "33.33",
-          "Date": " Sep 30 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "KKR won by 37 runs"
-     }
-][
-     {
-          "Player Name": "Dinesh Karthik (c)†",
           "Runs": "0",
           "Balls": "3",
           "Fours": "0",
@@ -88,5 +23,70 @@
           "Venue": " Sharjah",
           "Opponent Name": "Royal Challengers Bangalore",
           "Result": "RCB won by 82 runs"
+     }
+][
+     {
+          "Player Name": "Dinesh Karthik (c)†",
+          "Runs": "12",
+          "Balls": "11",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "109.09",
+          "Date": " Oct 7 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "KKR won by 10 runs"
+     }
+][
+     {
+          "Player Name": "Dinesh Karthik (c)†",
+          "Runs": "30",
+          "Balls": "23",
+          "Fours": "5",
+          "Sixes": "0",
+          "Strike Rate": "130.43",
+          "Date": " Sep 23 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 49 runs"
+     }
+][
+     {
+          "Player Name": "Dinesh Karthik (c)†",
+          "Runs": "1",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "33.33",
+          "Date": " Sep 30 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "KKR won by 37 runs"
+     }
+][
+     {
+          "Player Name": "Dinesh Karthik (c)†",
+          "Runs": "58",
+          "Balls": "29",
+          "Fours": "8",
+          "Sixes": "2",
+          "Strike Rate": "200.00",
+          "Date": " Oct 10 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "KKR won by 2 runs"
+     }
+][
+     {
+          "Player Name": "Dinesh Karthik (c)†",
+          "Runs": "6",
+          "Balls": "8",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "75.00",
+          "Date": " Oct 3 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 18 runs"
      }
 ]

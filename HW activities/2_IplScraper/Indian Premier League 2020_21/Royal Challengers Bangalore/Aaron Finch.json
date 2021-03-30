@@ -1,28 +1,41 @@
 [
      {
           "Player Name": "Aaron Finch",
-          "Runs": "8",
-          "Balls": "7",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "114.29",
-          "Date": " Oct 3 2020",
+          "Runs": "32",
+          "Balls": "30",
+          "Fours": "3",
+          "Sixes": "1",
+          "Strike Rate": "106.67",
+          "Date": " Nov 6 2020",
           "Venue": " Abu Dhabi",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
      }
 ][
      {
           "Player Name": "Aaron Finch",
-          "Runs": "15",
+          "Runs": "14",
           "Balls": "11",
-          "Fours": "3",
-          "Sixes": "0",
-          "Strike Rate": "136.36",
-          "Date": " Oct 25 2020",
+          "Fours": "0",
+          "Sixes": "2",
+          "Strike Rate": "127.27",
+          "Date": " Oct 17 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Aaron Finch",
+          "Runs": "47",
+          "Balls": "37",
+          "Fours": "4",
+          "Sixes": "1",
+          "Strike Rate": "127.03",
+          "Date": " Oct 12 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "RCB won by 82 runs"
      }
 ][
      {
@@ -53,41 +66,15 @@
 ][
      {
           "Player Name": "Aaron Finch",
-          "Runs": "14",
-          "Balls": "11",
-          "Fours": "0",
-          "Sixes": "2",
-          "Strike Rate": "127.27",
-          "Date": " Oct 17 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Aaron Finch",
-          "Runs": "32",
-          "Balls": "30",
-          "Fours": "3",
-          "Sixes": "1",
-          "Strike Rate": "106.67",
-          "Date": " Nov 6 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Aaron Finch",
-          "Runs": "20",
-          "Balls": "18",
+          "Runs": "8",
+          "Balls": "7",
           "Fours": "2",
-          "Sixes": "1",
-          "Strike Rate": "111.11",
-          "Date": " Oct 15 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 8 wickets"
+          "Sixes": "0",
+          "Strike Rate": "114.29",
+          "Date": " Oct 3 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
      }
 ][
      {
@@ -105,19 +92,6 @@
 ][
      {
           "Player Name": "Aaron Finch",
-          "Runs": "13",
-          "Balls": "14",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "92.86",
-          "Date": " Oct 5 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 59 runs"
-     }
-][
-     {
-          "Player Name": "Aaron Finch",
           "Runs": "29",
           "Balls": "27",
           "Fours": "1",
@@ -131,6 +105,45 @@
 ][
      {
           "Player Name": "Aaron Finch",
+          "Runs": "15",
+          "Balls": "11",
+          "Fours": "3",
+          "Sixes": "0",
+          "Strike Rate": "136.36",
+          "Date": " Oct 25 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Aaron Finch",
+          "Runs": "20",
+          "Balls": "18",
+          "Fours": "2",
+          "Sixes": "1",
+          "Strike Rate": "111.11",
+          "Date": " Oct 15 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 8 wickets"
+     }
+][
+     {
+          "Player Name": "Aaron Finch",
+          "Runs": "13",
+          "Balls": "14",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "92.86",
+          "Date": " Oct 5 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 59 runs"
+     }
+][
+     {
+          "Player Name": "Aaron Finch",
           "Runs": "52",
           "Balls": "35",
           "Fours": "7",
@@ -140,18 +153,5 @@
           "Venue": " Dubai",
           "Opponent Name": "Mumbai Indians",
           "Result": "Match tied (RCB won the one-over eliminator)"
-     }
-][
-     {
-          "Player Name": "Aaron Finch",
-          "Runs": "47",
-          "Balls": "37",
-          "Fours": "4",
-          "Sixes": "1",
-          "Strike Rate": "127.03",
-          "Date": " Oct 12 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "RCB won by 82 runs"
      }
 ]

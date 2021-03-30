@@ -1,54 +1,15 @@
 [
      {
           "Player Name": "AB de Villiers †",
-          "Runs": "24",
-          "Balls": "24",
-          "Fours": "1",
-          "Sixes": "1",
-          "Strike Rate": "100.00",
-          "Date": " Oct 31 2020",
-          "Venue": " Sharjah",
+          "Runs": "56",
+          "Balls": "43",
+          "Fours": "5",
+          "Sixes": "0",
+          "Strike Rate": "130.23",
+          "Date": " Nov 6 2020",
+          "Venue": " Abu Dhabi",
           "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
-     }
-][
-     {
-          "Player Name": "AB de Villiers †",
-          "Runs": "12",
-          "Balls": "10",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "120.00",
-          "Date": " Oct 3 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
-     }
-][
-     {
-          "Player Name": "AB de Villiers †",
-          "Runs": "35",
-          "Balls": "21",
-          "Fours": "1",
-          "Sixes": "2",
-          "Strike Rate": "166.67",
-          "Date": " Nov 2 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 6 wickets (with 6 balls remaining)"
-     }
-][
-     {
-          "Player Name": "AB de Villiers †",
-          "Runs": "39",
-          "Balls": "36",
-          "Fours": "4",
-          "Sixes": "0",
-          "Strike Rate": "108.33",
-          "Date": " Oct 25 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
+          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
      }
 ][
      {
@@ -79,28 +40,54 @@
 ][
      {
           "Player Name": "AB de Villiers †",
-          "Runs": "56",
-          "Balls": "43",
-          "Fours": "5",
-          "Sixes": "0",
-          "Strike Rate": "130.23",
-          "Date": " Nov 6 2020",
-          "Venue": " Abu Dhabi",
+          "Runs": "24",
+          "Balls": "24",
+          "Fours": "1",
+          "Sixes": "1",
+          "Strike Rate": "100.00",
+          "Date": " Oct 31 2020",
+          "Venue": " Sharjah",
           "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
+          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
      }
 ][
      {
           "Player Name": "AB de Villiers †",
-          "Runs": "2",
-          "Balls": "5",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "40.00",
-          "Date": " Oct 15 2020",
+          "Runs": "73",
+          "Balls": "33",
+          "Fours": "5",
+          "Sixes": "6",
+          "Strike Rate": "221.21",
+          "Date": " Oct 12 2020",
           "Venue": " Sharjah",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 8 wickets"
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "RCB won by 82 runs"
+     }
+][
+     {
+          "Player Name": "AB de Villiers †",
+          "Runs": "35",
+          "Balls": "21",
+          "Fours": "1",
+          "Sixes": "2",
+          "Strike Rate": "166.67",
+          "Date": " Nov 2 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 6 wickets (with 6 balls remaining)"
+     }
+][
+     {
+          "Player Name": "AB de Villiers †",
+          "Runs": "12",
+          "Balls": "10",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "120.00",
+          "Date": " Oct 3 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
      }
 ][
      {
@@ -114,6 +101,32 @@
           "Venue": " Dubai",
           "Opponent Name": "Chennai Super Kings",
           "Result": "RCB won by 37 runs"
+     }
+][
+     {
+          "Player Name": "AB de Villiers †",
+          "Runs": "39",
+          "Balls": "36",
+          "Fours": "4",
+          "Sixes": "0",
+          "Strike Rate": "108.33",
+          "Date": " Oct 25 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
+     }
+][
+     {
+          "Player Name": "AB de Villiers †",
+          "Runs": "2",
+          "Balls": "5",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "40.00",
+          "Date": " Oct 15 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 8 wickets"
      }
 ][
      {
@@ -140,18 +153,5 @@
           "Venue": " Dubai",
           "Opponent Name": "Mumbai Indians",
           "Result": "Match tied (RCB won the one-over eliminator)"
-     }
-][
-     {
-          "Player Name": "AB de Villiers †",
-          "Runs": "73",
-          "Balls": "33",
-          "Fours": "5",
-          "Sixes": "6",
-          "Strike Rate": "221.21",
-          "Date": " Oct 12 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "RCB won by 82 runs"
      }
 ]

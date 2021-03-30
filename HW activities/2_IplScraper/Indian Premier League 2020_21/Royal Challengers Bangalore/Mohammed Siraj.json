@@ -1,19 +1,6 @@
 [
      {
           "Player Name": "Mohammed Siraj",
-          "Runs": "2",
-          "Balls": "3",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "66.67",
-          "Date": " Oct 31 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Mohammed Siraj",
           "Runs": "10",
           "Balls": "7",
           "Fours": "1",
@@ -23,6 +10,19 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Mohammed Siraj",
+          "Runs": "2",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "66.67",
+          "Date": " Oct 31 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
      }
 ][
      {

@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Vijay Shankar",
+          "Runs": "52",
+          "Balls": "51",
+          "Fours": "6",
+          "Sixes": "0",
+          "Strike Rate": "101.96",
+          "Date": " Oct 22 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Vijay Shankar",
           "Runs": "26",
           "Balls": "27",
           "Fours": "4",
@@ -14,15 +27,15 @@
 ][
      {
           "Player Name": "Vijay Shankar",
-          "Runs": "52",
-          "Balls": "51",
-          "Fours": "6",
+          "Runs": "0",
+          "Balls": "1",
+          "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "101.96",
-          "Date": " Oct 22 2020",
+          "Strike Rate": "0.00",
+          "Date": " Sep 21 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)"
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 10 runs"
      }
 ][
      {
@@ -49,18 +62,5 @@
           "Venue": " Dubai",
           "Opponent Name": "Chennai Super Kings",
           "Result": "Super Kings won by 20 runs"
-     }
-][
-     {
-          "Player Name": "Vijay Shankar",
-          "Runs": "0",
-          "Balls": "1",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Sep 21 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 10 runs"
      }
 ]

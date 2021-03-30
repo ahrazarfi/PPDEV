@@ -1,19 +1,6 @@
 [
      {
           "Player Name": "Ankit Rajpoot",
-          "Runs": "7",
-          "Balls": "5",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "140.00",
-          "Date": " Sep 30 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 37 runs"
-     }
-][
-     {
-          "Player Name": "Ankit Rajpoot",
           "Runs": "2",
           "Balls": "5",
           "Fours": "0",
@@ -23,5 +10,18 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Mumbai Indians",
           "Result": "Mum Indians won by 57 runs"
+     }
+][
+     {
+          "Player Name": "Ankit Rajpoot",
+          "Runs": "7",
+          "Balls": "5",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "140.00",
+          "Date": " Sep 30 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 37 runs"
      }
 ]

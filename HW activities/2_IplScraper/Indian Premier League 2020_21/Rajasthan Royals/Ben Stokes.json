@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Ben Stokes",
+          "Runs": "15",
+          "Balls": "19",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "78.95",
+          "Date": " Oct 17 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Ben Stokes",
           "Runs": "50",
           "Balls": "26",
           "Fours": "6",
@@ -27,28 +40,15 @@
 ][
      {
           "Player Name": "Ben Stokes",
-          "Runs": "19",
-          "Balls": "11",
-          "Fours": "3",
+          "Runs": "41",
+          "Balls": "35",
+          "Fours": "6",
           "Sixes": "0",
-          "Strike Rate": "172.73",
-          "Date": " Oct 19 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Ben Stokes",
-          "Runs": "15",
-          "Balls": "19",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "78.95",
-          "Date": " Oct 17 2020",
+          "Strike Rate": "117.14",
+          "Date": " Oct 14 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 13 runs"
      }
 ][
      {
@@ -66,19 +66,6 @@
 ][
      {
           "Player Name": "Ben Stokes",
-          "Runs": "5",
-          "Balls": "6",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "83.33",
-          "Date": " Oct 11 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
-     }
-][
-     {
-          "Player Name": "Ben Stokes",
           "Runs": "18",
           "Balls": "11",
           "Fours": "2",
@@ -92,14 +79,27 @@
 ][
      {
           "Player Name": "Ben Stokes",
-          "Runs": "41",
-          "Balls": "35",
-          "Fours": "6",
+          "Runs": "5",
+          "Balls": "6",
+          "Fours": "1",
           "Sixes": "0",
-          "Strike Rate": "117.14",
-          "Date": " Oct 14 2020",
+          "Strike Rate": "83.33",
+          "Date": " Oct 11 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 13 runs"
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
+     }
+][
+     {
+          "Player Name": "Ben Stokes",
+          "Runs": "19",
+          "Balls": "11",
+          "Fours": "3",
+          "Sixes": "0",
+          "Strike Rate": "172.73",
+          "Date": " Oct 19 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
      }
 ]

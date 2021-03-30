@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Mohammed Shami",
+          "Runs": "0",
+          "Balls": "0",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Sep 20 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Match tied (Capitals won the one-over eliminator)"
+     }
+][
+     {
+          "Player Name": "Mohammed Shami",
           "Runs": "2",
           "Balls": "2",
           "Fours": "0",
@@ -23,18 +36,5 @@
           "Venue": " Dubai",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Sunrisers won by 69 runs"
-     }
-][
-     {
-          "Player Name": "Mohammed Shami",
-          "Runs": "0",
-          "Balls": "0",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Sep 20 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Match tied (Capitals won the one-over eliminator)"
      }
 ]

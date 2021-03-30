@@ -14,15 +14,15 @@
 ][
      {
           "Player Name": "Kagiso Rabada",
-          "Runs": "12",
-          "Balls": "7",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "171.43",
-          "Date": " Oct 31 2020",
+          "Runs": "15",
+          "Balls": "15",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "100.00",
+          "Date": " Nov 5 2020",
           "Venue": " Dubai",
           "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
+          "Result": "Mum Indians won by 57 runs"
      }
 ][
      {
@@ -40,28 +40,15 @@
 ][
      {
           "Player Name": "Kagiso Rabada",
-          "Runs": "15",
-          "Balls": "15",
-          "Fours": "2",
+          "Runs": "0",
+          "Balls": "0",
+          "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "100.00",
-          "Date": " Nov 5 2020",
+          "Strike Rate": "0.00",
+          "Date": " Sep 20 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 57 runs"
-     }
-][
-     {
-          "Player Name": "Kagiso Rabada",
-          "Runs": "9",
-          "Balls": "10",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "90.00",
-          "Date": " Oct 24 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 59 runs"
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Match tied (Capitals won the one-over eliminator)"
      }
 ][
      {
@@ -92,14 +79,27 @@
 ][
      {
           "Player Name": "Kagiso Rabada",
-          "Runs": "0",
-          "Balls": "0",
-          "Fours": "0",
+          "Runs": "9",
+          "Balls": "10",
+          "Fours": "1",
           "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Sep 20 2020",
+          "Strike Rate": "90.00",
+          "Date": " Oct 24 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 59 runs"
+     }
+][
+     {
+          "Player Name": "Kagiso Rabada",
+          "Runs": "12",
+          "Balls": "7",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "171.43",
+          "Date": " Oct 31 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Match tied (Capitals won the one-over eliminator)"
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 9 wickets (with 34 balls remaining)"
      }
 ]

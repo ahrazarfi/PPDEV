@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Ruturaj Gaikwad",
+          "Runs": "0",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Sep 22 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Royals won by 16 runs"
+     }
+][
+     {
+          "Player Name": "Ruturaj Gaikwad",
           "Runs": "72",
           "Balls": "53",
           "Fours": "6",
@@ -10,32 +23,6 @@
           "Venue": " Dubai",
           "Opponent Name": "Kolkata Knight Riders",
           "Result": "Super Kings won by 6 wickets"
-     }
-][
-     {
-          "Player Name": "Ruturaj Gaikwad",
-          "Runs": "65",
-          "Balls": "51",
-          "Fours": "4",
-          "Sixes": "3",
-          "Strike Rate": "127.45",
-          "Date": " Oct 25 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Ruturaj Gaikwad",
-          "Runs": "62",
-          "Balls": "49",
-          "Fours": "6",
-          "Sixes": "1",
-          "Strike Rate": "126.53",
-          "Date": " Nov 1 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Super Kings won by 9 wickets (with 7 balls remaining)"
      }
 ][
      {
@@ -53,6 +40,19 @@
 ][
      {
           "Player Name": "Ruturaj Gaikwad",
+          "Runs": "62",
+          "Balls": "49",
+          "Fours": "6",
+          "Sixes": "1",
+          "Strike Rate": "126.53",
+          "Date": " Nov 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Super Kings won by 9 wickets (with 7 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Ruturaj Gaikwad",
           "Runs": "5",
           "Balls": "10",
           "Fours": "0",
@@ -66,14 +66,14 @@
 ][
      {
           "Player Name": "Ruturaj Gaikwad",
-          "Runs": "0",
-          "Balls": "1",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Sep 22 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Royals won by 16 runs"
+          "Runs": "65",
+          "Balls": "51",
+          "Fours": "4",
+          "Sixes": "3",
+          "Strike Rate": "127.45",
+          "Date": " Oct 25 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
      }
 ]

@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Chris Morris",
+          "Runs": "4",
+          "Balls": "2",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "200.00",
+          "Date": " Oct 28 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Chris Morris",
           "Runs": "3",
           "Balls": "4",
           "Fours": "0",
@@ -36,19 +49,6 @@
           "Venue": " Dubai",
           "Opponent Name": "Chennai Super Kings",
           "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Chris Morris",
-          "Runs": "4",
-          "Balls": "2",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "200.00",
-          "Date": " Oct 28 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
      }
 ][
      {

@@ -1,6 +1,32 @@
 [
      {
           "Player Name": "Sanju Samson †",
+          "Runs": "74",
+          "Balls": "32",
+          "Fours": "1",
+          "Sixes": "9",
+          "Strike Rate": "231.25",
+          "Date": " Sep 22 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Royals won by 16 runs"
+     }
+][
+     {
+          "Player Name": "Sanju Samson †",
+          "Runs": "9",
+          "Balls": "6",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "150.00",
+          "Date": " Oct 17 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Sanju Samson †",
           "Runs": "48",
           "Balls": "25",
           "Fours": "4",
@@ -23,32 +49,6 @@
           "Venue": " Dubai",
           "Opponent Name": "Sunrisers Hyderabad",
           "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Sanju Samson †",
-          "Runs": "0",
-          "Balls": "3",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Oct 19 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Sanju Samson †",
-          "Runs": "9",
-          "Balls": "6",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "150.00",
-          "Date": " Oct 17 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
      }
 ][
      {
@@ -79,14 +79,14 @@
 ][
      {
           "Player Name": "Sanju Samson †",
-          "Runs": "74",
-          "Balls": "32",
-          "Fours": "1",
-          "Sixes": "9",
-          "Strike Rate": "231.25",
-          "Date": " Sep 22 2020",
-          "Venue": " Sharjah",
+          "Runs": "0",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Oct 19 2020",
+          "Venue": " Abu Dhabi",
           "Opponent Name": "Chennai Super Kings",
-          "Result": "Royals won by 16 runs"
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
      }
 ]

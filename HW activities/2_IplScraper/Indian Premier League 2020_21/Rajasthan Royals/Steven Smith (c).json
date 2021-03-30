@@ -1,149 +1,6 @@
 [
      {
           "Player Name": "Steven Smith (c)",
-          "Runs": "31",
-          "Balls": "20",
-          "Fours": "5",
-          "Sixes": "0",
-          "Strike Rate": "155.00",
-          "Date": " Oct 30 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "5",
-          "Balls": "5",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "100.00",
-          "Date": " Oct 3 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "19",
-          "Balls": "15",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "126.67",
-          "Date": " Oct 22 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "26",
-          "Balls": "34",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "76.47",
-          "Date": " Oct 19 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "57",
-          "Balls": "36",
-          "Fours": "6",
-          "Sixes": "1",
-          "Strike Rate": "158.33",
-          "Date": " Oct 17 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "11",
-          "Balls": "8",
-          "Fours": "1",
-          "Sixes": "1",
-          "Strike Rate": "137.50",
-          "Date": " Oct 25 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "5",
-          "Balls": "6",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "83.33",
-          "Date": " Oct 11 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "3",
-          "Balls": "7",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "42.86",
-          "Date": " Sep 30 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 37 runs"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "6",
-          "Balls": "7",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "85.71",
-          "Date": " Oct 6 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 57 runs"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "4",
-          "Balls": "4",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "100.00",
-          "Date": " Nov 1 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kolkata Knight Riders",
-          "Result": "KKR won by 60 runs"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
-          "Runs": "24",
-          "Balls": "17",
-          "Fours": "2",
-          "Sixes": "1",
-          "Strike Rate": "141.18",
-          "Date": " Oct 9 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 46 runs"
-     }
-][
-     {
-          "Player Name": "Steven Smith (c)",
           "Runs": "69",
           "Balls": "47",
           "Fours": "4",
@@ -170,6 +27,45 @@
 ][
      {
           "Player Name": "Steven Smith (c)",
+          "Runs": "57",
+          "Balls": "36",
+          "Fours": "6",
+          "Sixes": "1",
+          "Strike Rate": "158.33",
+          "Date": " Oct 17 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 7 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "31",
+          "Balls": "20",
+          "Fours": "5",
+          "Sixes": "0",
+          "Strike Rate": "155.00",
+          "Date": " Oct 30 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "19",
+          "Balls": "15",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "126.67",
+          "Date": " Oct 22 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
           "Runs": "1",
           "Balls": "4",
           "Fours": "0",
@@ -179,5 +75,109 @@
           "Venue": " Dubai",
           "Opponent Name": "Delhi Capitals",
           "Result": "Capitals won by 13 runs"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "5",
+          "Balls": "5",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "100.00",
+          "Date": " Oct 3 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 8 wickets (with 5 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "6",
+          "Balls": "7",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "85.71",
+          "Date": " Oct 6 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 57 runs"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "3",
+          "Balls": "7",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "42.86",
+          "Date": " Sep 30 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 37 runs"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "24",
+          "Balls": "17",
+          "Fours": "2",
+          "Sixes": "1",
+          "Strike Rate": "141.18",
+          "Date": " Oct 9 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 46 runs"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "11",
+          "Balls": "8",
+          "Fours": "1",
+          "Sixes": "1",
+          "Strike Rate": "137.50",
+          "Date": " Oct 25 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Royals won by 8 wickets (with 10 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "4",
+          "Balls": "4",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "100.00",
+          "Date": " Nov 1 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Kolkata Knight Riders",
+          "Result": "KKR won by 60 runs"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "5",
+          "Balls": "6",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "83.33",
+          "Date": " Oct 11 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Royals won by 5 wickets (with 1 ball remaining)"
+     }
+][
+     {
+          "Player Name": "Steven Smith (c)",
+          "Runs": "26",
+          "Balls": "34",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "76.47",
+          "Date": " Oct 19 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Royals won by 7 wickets (with 15 balls remaining)"
      }
 ]

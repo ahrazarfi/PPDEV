@@ -27,15 +27,15 @@
 ][
      {
           "Player Name": "Sandeep Sharma",
-          "Runs": "1",
-          "Balls": "2",
-          "Fours": "0",
+          "Runs": "9",
+          "Balls": "6",
+          "Fours": "1",
           "Sixes": "0",
-          "Strike Rate": "50.00",
-          "Date": " Oct 13 2020",
+          "Strike Rate": "150.00",
+          "Date": " Sep 21 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 20 runs"
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "RCB won by 10 runs"
      }
 ][
      {
@@ -53,14 +53,14 @@
 ][
      {
           "Player Name": "Sandeep Sharma",
-          "Runs": "9",
-          "Balls": "6",
-          "Fours": "1",
+          "Runs": "1",
+          "Balls": "2",
+          "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "150.00",
-          "Date": " Sep 21 2020",
+          "Strike Rate": "50.00",
+          "Date": " Oct 13 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "RCB won by 10 runs"
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 20 runs"
      }
 ]

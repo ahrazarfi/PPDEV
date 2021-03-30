@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Sunil Narine",
+          "Runs": "0",
+          "Balls": "2",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Sep 26 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "KKR won by 7 wickets (with 12 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Sunil Narine",
           "Runs": "7",
           "Balls": "7",
           "Fours": "0",
@@ -10,58 +23,6 @@
           "Venue": " Dubai",
           "Opponent Name": "Chennai Super Kings",
           "Result": "Super Kings won by 6 wickets"
-     }
-][
-     {
-          "Player Name": "Sunil Narine",
-          "Runs": "9",
-          "Balls": "10",
-          "Fours": "0",
-          "Sixes": "1",
-          "Strike Rate": "90.00",
-          "Date": " Sep 23 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 49 runs"
-     }
-][
-     {
-          "Player Name": "Sunil Narine",
-          "Runs": "6",
-          "Balls": "4",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "150.00",
-          "Date": " Oct 26 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Sunil Narine",
-          "Runs": "64",
-          "Balls": "32",
-          "Fours": "6",
-          "Sixes": "4",
-          "Strike Rate": "200.00",
-          "Date": " Oct 24 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "KKR won by 59 runs"
-     }
-][
-     {
-          "Player Name": "Sunil Narine",
-          "Runs": "3",
-          "Balls": "5",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "60.00",
-          "Date": " Oct 3 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 18 runs"
      }
 ][
      {
@@ -79,6 +40,19 @@
 ][
      {
           "Player Name": "Sunil Narine",
+          "Runs": "9",
+          "Balls": "10",
+          "Fours": "0",
+          "Sixes": "1",
+          "Strike Rate": "90.00",
+          "Date": " Sep 23 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 49 runs"
+     }
+][
+     {
+          "Player Name": "Sunil Narine",
           "Runs": "15",
           "Balls": "14",
           "Fours": "2",
@@ -88,6 +62,19 @@
           "Venue": " Dubai",
           "Opponent Name": "Rajasthan Royals",
           "Result": "KKR won by 37 runs"
+     }
+][
+     {
+          "Player Name": "Sunil Narine",
+          "Runs": "64",
+          "Balls": "32",
+          "Fours": "6",
+          "Sixes": "4",
+          "Strike Rate": "200.00",
+          "Date": " Oct 24 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "KKR won by 59 runs"
      }
 ][
      {
@@ -105,14 +92,27 @@
 ][
      {
           "Player Name": "Sunil Narine",
-          "Runs": "0",
-          "Balls": "2",
+          "Runs": "6",
+          "Balls": "4",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "150.00",
+          "Date": " Oct 26 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Sunil Narine",
+          "Runs": "3",
+          "Balls": "5",
           "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Sep 26 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "KKR won by 7 wickets (with 12 balls remaining)"
+          "Strike Rate": "60.00",
+          "Date": " Oct 3 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 18 runs"
      }
 ]

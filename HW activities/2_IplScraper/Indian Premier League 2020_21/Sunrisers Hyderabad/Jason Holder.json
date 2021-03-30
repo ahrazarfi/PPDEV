@@ -1,15 +1,15 @@
 [
      {
           "Player Name": "Jason Holder",
-          "Runs": "26",
-          "Balls": "10",
-          "Fours": "1",
-          "Sixes": "3",
-          "Strike Rate": "260.00",
-          "Date": " Oct 31 2020",
-          "Venue": " Sharjah",
+          "Runs": "24",
+          "Balls": "20",
+          "Fours": "3",
+          "Sixes": "0",
+          "Strike Rate": "120.00",
+          "Date": " Nov 6 2020",
+          "Venue": " Abu Dhabi",
           "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
+          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
      }
 ][
      {
@@ -27,6 +27,19 @@
 ][
      {
           "Player Name": "Jason Holder",
+          "Runs": "26",
+          "Balls": "10",
+          "Fours": "1",
+          "Sixes": "3",
+          "Strike Rate": "260.00",
+          "Date": " Oct 31 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Jason Holder",
           "Runs": "5",
           "Balls": "8",
           "Fours": "0",
@@ -36,18 +49,5 @@
           "Venue": " Dubai",
           "Opponent Name": "Kings XI Punjab",
           "Result": "Kings XI won by 12 runs"
-     }
-][
-     {
-          "Player Name": "Jason Holder",
-          "Runs": "24",
-          "Balls": "20",
-          "Fours": "3",
-          "Sixes": "0",
-          "Strike Rate": "120.00",
-          "Date": " Nov 6 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
      }
 ]

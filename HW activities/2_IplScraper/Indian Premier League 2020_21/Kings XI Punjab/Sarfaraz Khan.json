@@ -14,19 +14,6 @@
 ][
      {
           "Player Name": "Sarfaraz Khan",
-          "Runs": "7",
-          "Balls": "8",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "87.50",
-          "Date": " Oct 1 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 48 runs"
-     }
-][
-     {
-          "Player Name": "Sarfaraz Khan",
           "Runs": "12",
           "Balls": "12",
           "Fours": "2",
@@ -36,5 +23,18 @@
           "Venue": " Dubai",
           "Opponent Name": "Delhi Capitals",
           "Result": "Match tied (Capitals won the one-over eliminator)"
+     }
+][
+     {
+          "Player Name": "Sarfaraz Khan",
+          "Runs": "7",
+          "Balls": "8",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "87.50",
+          "Date": " Oct 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 48 runs"
      }
 ]

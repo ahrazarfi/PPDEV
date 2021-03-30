@@ -14,28 +14,15 @@
 ][
      {
           "Player Name": "Ajinkya Rahane",
-          "Runs": "26",
-          "Balls": "19",
-          "Fours": "3",
-          "Sixes": "1",
-          "Strike Rate": "136.84",
-          "Date": " Oct 27 2020",
+          "Runs": "2",
+          "Balls": "9",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "22.22",
+          "Date": " Oct 14 2020",
           "Venue": " Dubai",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 88 runs"
-     }
-][
-     {
-          "Player Name": "Ajinkya Rahane",
-          "Runs": "60",
-          "Balls": "46",
-          "Fours": "5",
-          "Sixes": "1",
-          "Strike Rate": "130.43",
-          "Date": " Nov 2 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Royal Challengers Bangalore",
-          "Result": "Capitals won by 6 wickets (with 6 balls remaining)"
+          "Opponent Name": "Rajasthan Royals",
+          "Result": "Capitals won by 13 runs"
      }
 ][
      {
@@ -49,6 +36,45 @@
           "Venue": " Dubai",
           "Opponent Name": "Mumbai Indians",
           "Result": "Mum Indians won by 57 runs"
+     }
+][
+     {
+          "Player Name": "Ajinkya Rahane",
+          "Runs": "26",
+          "Balls": "19",
+          "Fours": "3",
+          "Sixes": "1",
+          "Strike Rate": "136.84",
+          "Date": " Oct 27 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 88 runs"
+     }
+][
+     {
+          "Player Name": "Ajinkya Rahane",
+          "Runs": "8",
+          "Balls": "10",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "80.00",
+          "Date": " Oct 17 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Capitals won by 5 wickets (with 1 ball remaining)"
+     }
+][
+     {
+          "Player Name": "Ajinkya Rahane",
+          "Runs": "60",
+          "Balls": "46",
+          "Fours": "5",
+          "Sixes": "1",
+          "Strike Rate": "130.43",
+          "Date": " Nov 2 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Royal Challengers Bangalore",
+          "Result": "Capitals won by 6 wickets (with 6 balls remaining)"
      }
 ][
      {
@@ -75,31 +101,5 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Mumbai Indians",
           "Result": "Mum Indians won by 5 wickets (with 2 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Ajinkya Rahane",
-          "Runs": "8",
-          "Balls": "10",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "80.00",
-          "Date": " Oct 17 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Capitals won by 5 wickets (with 1 ball remaining)"
-     }
-][
-     {
-          "Player Name": "Ajinkya Rahane",
-          "Runs": "2",
-          "Balls": "9",
-          "Fours": "0",
-          "Sixes": "0",
-          "Strike Rate": "22.22",
-          "Date": " Oct 14 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Rajasthan Royals",
-          "Result": "Capitals won by 13 runs"
      }
 ]

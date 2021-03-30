@@ -1,6 +1,19 @@
 [
      {
           "Player Name": "Josh Philippe",
+          "Runs": "33",
+          "Balls": "24",
+          "Fours": "4",
+          "Sixes": "1",
+          "Strike Rate": "137.50",
+          "Date": " Oct 28 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Mumbai Indians",
+          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Josh Philippe",
           "Runs": "32",
           "Balls": "31",
           "Fours": "4",
@@ -23,18 +36,5 @@
           "Venue": " Abu Dhabi",
           "Opponent Name": "Delhi Capitals",
           "Result": "Capitals won by 6 wickets (with 6 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Josh Philippe",
-          "Runs": "33",
-          "Balls": "24",
-          "Fours": "4",
-          "Sixes": "1",
-          "Strike Rate": "137.50",
-          "Date": " Oct 28 2020",
-          "Venue": " Abu Dhabi",
-          "Opponent Name": "Mumbai Indians",
-          "Result": "Mum Indians won by 5 wickets (with 5 balls remaining)"
      }
 ]

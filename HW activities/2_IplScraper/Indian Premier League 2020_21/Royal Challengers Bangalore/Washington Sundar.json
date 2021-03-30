@@ -1,54 +1,15 @@
 [
      {
           "Player Name": "Washington Sundar",
-          "Runs": "21",
-          "Balls": "18",
-          "Fours": "2",
-          "Sixes": "0",
-          "Strike Rate": "116.67",
-          "Date": " Oct 31 2020",
-          "Venue": " Sharjah",
-          "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Washington Sundar",
-          "Runs": "0",
-          "Balls": "1",
+          "Runs": "5",
+          "Balls": "6",
           "Fours": "0",
           "Sixes": "0",
-          "Strike Rate": "0.00",
-          "Date": " Nov 2 2020",
+          "Strike Rate": "83.33",
+          "Date": " Nov 6 2020",
           "Venue": " Abu Dhabi",
-          "Opponent Name": "Delhi Capitals",
-          "Result": "Capitals won by 6 wickets (with 6 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Washington Sundar",
-          "Runs": "5",
-          "Balls": "2",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "250.00",
-          "Date": " Oct 25 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Chennai Super Kings",
-          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
-     }
-][
-     {
-          "Player Name": "Washington Sundar",
-          "Runs": "30",
-          "Balls": "27",
-          "Fours": "2",
-          "Sixes": "1",
-          "Strike Rate": "111.11",
-          "Date": " Sep 24 2020",
-          "Venue": " Dubai",
-          "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 97 runs"
+          "Opponent Name": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
      }
 ][
      {
@@ -66,28 +27,41 @@
 ][
      {
           "Player Name": "Washington Sundar",
-          "Runs": "5",
-          "Balls": "6",
-          "Fours": "0",
+          "Runs": "21",
+          "Balls": "18",
+          "Fours": "2",
           "Sixes": "0",
-          "Strike Rate": "83.33",
-          "Date": " Nov 6 2020",
-          "Venue": " Abu Dhabi",
+          "Strike Rate": "116.67",
+          "Date": " Oct 31 2020",
+          "Venue": " Sharjah",
           "Opponent Name": "Sunrisers Hyderabad",
-          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
+          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
      }
 ][
      {
           "Player Name": "Washington Sundar",
-          "Runs": "13",
-          "Balls": "14",
-          "Fours": "1",
-          "Sixes": "0",
-          "Strike Rate": "92.86",
-          "Date": " Oct 15 2020",
-          "Venue": " Sharjah",
+          "Runs": "30",
+          "Balls": "27",
+          "Fours": "2",
+          "Sixes": "1",
+          "Strike Rate": "111.11",
+          "Date": " Sep 24 2020",
+          "Venue": " Dubai",
           "Opponent Name": "Kings XI Punjab",
-          "Result": "Kings XI won by 8 wickets"
+          "Result": "Kings XI won by 97 runs"
+     }
+][
+     {
+          "Player Name": "Washington Sundar",
+          "Runs": "0",
+          "Balls": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Nov 2 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Name": "Delhi Capitals",
+          "Result": "Capitals won by 6 wickets (with 6 balls remaining)"
      }
 ][
      {
@@ -101,6 +75,32 @@
           "Venue": " Dubai",
           "Opponent Name": "Chennai Super Kings",
           "Result": "RCB won by 37 runs"
+     }
+][
+     {
+          "Player Name": "Washington Sundar",
+          "Runs": "5",
+          "Balls": "2",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "250.00",
+          "Date": " Oct 25 2020",
+          "Venue": " Dubai",
+          "Opponent Name": "Chennai Super Kings",
+          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
+     }
+][
+     {
+          "Player Name": "Washington Sundar",
+          "Runs": "13",
+          "Balls": "14",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "92.86",
+          "Date": " Oct 15 2020",
+          "Venue": " Sharjah",
+          "Opponent Name": "Kings XI Punjab",
+          "Result": "Kings XI won by 8 wickets"
      }
 ][
      {
